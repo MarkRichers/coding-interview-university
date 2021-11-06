@@ -823,7 +823,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 ## Sorting
 
-- [ ] Notes:
+- [x] Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
         - no bubble sort - it's terrible - O(n^2), except when n <= 16
     - [ ] Stability in sorting algorithms ("Is Quicksort stable?")
@@ -837,7 +837,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - For heapsort, see Heap data structure above. Heap sort is great, but not stable
 
-- [ ] [Sedgewick - Mergesort (5 videos)](https://www.coursera.org/learn/algorithms-part1/home/week/3)
+- [x] [Sedgewick - Mergesort (5 videos)](https://www.coursera.org/learn/algorithms-part1/home/week/3)
     - [ ] [1. Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/ARWDq/mergesort)
     - [ ] [2. Bottom up Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/PWNEl/bottom-up-mergesort)
     - [ ] [3. Sorting Complexity](https://www.coursera.org/learn/algorithms-part1/lecture/xAltF/sorting-complexity)
